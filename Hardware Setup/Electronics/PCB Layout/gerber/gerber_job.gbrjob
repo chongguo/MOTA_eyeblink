@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.6.0*%
+%TF.CreationDate,2018-02-20T16:43:01Z*%
+%TF.Part,Single*%
+%MOIN*%
+%TJ.B_Owner,Chong Guo <cg376@cornell.edu>*%
+%TJ.B_ID,board_012518*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,0.061811*%
+%TJ.B_Size_X,2.437008*%
+%TJ.B_Size_Y,1.999606*%
+M02*
